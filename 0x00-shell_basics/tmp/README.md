@@ -1,2 +1,1 @@
-#!/bin/bash
-tmp repo
+README file
